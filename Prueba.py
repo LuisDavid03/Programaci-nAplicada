@@ -6,4 +6,4 @@ if edad > 18:
 else:
   print('Es menor de edad')
 
-  print('Luis luis LUIS')
+  print('Luis luis Lucas')
