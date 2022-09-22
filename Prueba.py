@@ -6,5 +6,4 @@ if edad > 18:
 else:
   print('Es menor de edad')
 
-b = 100
-print(b)
+print('Buenas TARDES')
